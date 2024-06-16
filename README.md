@@ -6,6 +6,18 @@
 
 ![](./svg/basic/rect.svg)
 
+### partial-rect
+
+![](./svg/basic/partial-rect.svg)
+
+### rounded-rect
+
+![](./svg/basic/rounded-rect.svg)
+
+### square
+
+![](./svg/basic/square.svg)
+
 ### circle
 
 ![](./svg/basic/circle.svg)
@@ -14,14 +26,178 @@
 
 ![](./svg/basic/ellipse.svg)
 
+### diamond
+
+![](./svg/basic/diamond.svg)
+
+### process
+
+![](./svg/basic/process.svg)
+
+### parallelogram
+
+![](./svg/basic/parallelogram.svg)
+
+### triangle
+
+![](./svg/basic/triangle.svg)
+
+### orthogonal-triangle
+
+![](./svg/basic/orthogonal-triangle.svg)
+
+### acute-triangle
+
+![](./svg/basic/acute-triangle.svg)
+
+### hexagon
+
+![](./svg/basic/hexagon.svg)
+
+### polygon
+
+![](./svg/basic/polygon.svg)
+
+### trapezoid
+
+![](./svg/basic/trapezoid.svg)
+
+### step
+
+![](./svg/basic/step.svg)
+
+### cylinder
+
+![](./svg/basic/cylinder.svg)
+
+### cone
+
+![](./svg/basic/cone.svg)
+
+### fan
+
+![](./svg/basic/fan.svg)
+
+### data-storage
+
+![](./svg/basic/data-storage.svg)
+
+### pentagon
+
+![](./svg/basic/pentagon.svg)
+
+### star
+
+![](./svg/basic/star.svg)
+
+### cloud
+
+![](./svg/basic/cloud.svg)
+
+### cross
+
+![](./svg/basic/cross.svg)
+
+### corner
+
+![](./svg/basic/corner.svg)
+
 ### line
 
 ![](./svg/basic/line.svg)
 
-### polyline
+### dotted-line
 
-![](./svg/basic/polyline.svg)
+![](./svg/basic/dotted-line.svg)
 
-## polygon
+### dashed-line
 
-![](./svg/basic/polygon.svg)
+![](./svg/basic/dashed-line.svg)
+
+## flowchart
+
+### document
+
+![](./svg/flowchart/document.svg)
+
+### tape
+
+![](./svg/flowchart/tape.svg)
+
+### internal-storage
+
+![](./svg/flowchart/internal-storage.svg)
+
+### tape-data
+
+![](./svg/flowchart/tape-data.svg)
+
+### manual-input
+
+![](./svg/flowchart/manual-input.svg)
+
+### loop-limit
+
+![](./svg/flowchart/loop-limit.svg)
+
+### off-page-connector
+
+![](./svg/flowchart/off-page-connector.svg)
+
+### delay
+
+![](./svg/flowchart/delay.svg)
+
+### display
+
+![](./svg/flowchart/display.svg)
+
+### or
+
+![](./svg/flowchart/or.svg)
+
+### sum
+
+![](./svg/flowchart/sum.svg)
+
+### sort
+
+![](./svg/flowchart/sort.svg)
+
+### card
+
+![](./svg/flowchart/card.svg)
+
+## arrow
+
+### left-arrow
+
+![](./svg/arrow/left-arrow.svg)
+
+### right-arrow
+
+![](./svg/arrow/right-arrow.svg)
+
+### up-arrow
+
+![](./svg/arrow/up-arrow.svg)
+
+### down-arrow
+
+![](./svg/arrow/down-arrow.svg)
+
+### left-right-arrow
+
+![](./svg/arrow/left-right-arrow.svg)
+
+### up-down-arrow
+
+![](./svg/arrow/up-down-arrow.svg)
+
+### back-arrow1
+
+![](./svg/arrow/back-arrow1.svg)
+
+### back-arrow2
+
+![](./svg/arrow/back-arrow2.svg)
