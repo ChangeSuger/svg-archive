@@ -78,6 +78,14 @@
 
 ![](./svg/basic/fan.svg)
 
+### ring-fan
+
+![](./svg/basic/ring-fan.svg)
+
+### cursor
+
+![](./svg/basic/cursor.svg)
+
 ### data-storage
 
 ![](./svg/basic/data-storage.svg)
@@ -101,6 +109,10 @@
 ### corner
 
 ![](./svg/basic/corner.svg)
+
+### pill
+
+![](./svg/basic/pill.svg)
 
 ### line
 
