@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <g fill="transparent" stroke="black" stroke-width="2">
+    <path d="
+      M 8 2 Q 28 2 28 26 T 48 50 Q 28 50 28 74 T 8 98 
+      M 52 26 h 40 
+      M 52 50 h 40
+      M 52 74 h 30
+    " />
+  </g>
+</svg>

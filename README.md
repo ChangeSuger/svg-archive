@@ -128,6 +128,10 @@
 
 ## flowchart
 
+### start-or-end
+
+![](./svg/flowchart/start-or-end.svg)
+
 ### document
 
 ![](./svg/flowchart/document.svg)
@@ -179,6 +183,22 @@
 ### card
 
 ![](./svg/flowchart/card.svg)
+
+### annotation-left
+
+![](./svg/flowchart/annotation-left.svg)
+
+### annotation-right
+
+![](./svg/flowchart/annotation-right.svg)
+
+### comment-left
+
+![](./svg/flowchart/comment-left.svg)
+
+### comment-right
+
+![](./svg/flowchart/comment-right.svg)
 
 ## arrow
 
